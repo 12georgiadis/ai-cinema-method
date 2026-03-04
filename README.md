@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="header-banner.jpg" alt="AI Cinema Method" width="100%"/>
+</p>
+
 # AI Cinema Method
 
 **AI as artistic method — position, research, and memory architecture from a filmmaker working across cinema, contemporary art, and AI.**
